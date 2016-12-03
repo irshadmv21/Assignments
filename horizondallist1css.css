@@ -1,0 +1,19 @@
+#head{
+	
+	
+background-color:#3b5998;
+float:left;
+padding-right:8px;
+}
+#ord{
+	border-style:none;
+    border-right-color:white;
+	border-width:2px;
+	border-right-style:solid;
+	border-bottom-color:#3b5998;
+	border-left-color:#3b5998;
+	border-top-color:#3b5998;
+	color:white;
+	padding-right:8px;
+	
+}
